@@ -1,0 +1,17 @@
+.remove-product-to-cart {
+	cursor:pointer;
+}
+
+.delete-product,
+.edit-product,
+.create-product,
+.view-product,
+.view-order,
+.view-customer
+{
+	cursor:pointer;
+}
+
+.font-weight-bold {
+	font-weight: bold;
+}
